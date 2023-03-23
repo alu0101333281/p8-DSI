@@ -1,0 +1,1 @@
+{"processes":{"2a5b69f6-c1e8-4bda-8920-c7dddc14db5d":{"parent":null,"children":["3099f1e7-94aa-4d3c-b5ba-461ce112ca02"]},"3099f1e7-94aa-4d3c-b5ba-461ce112ca02":{"parent":"2a5b69f6-c1e8-4bda-8920-c7dddc14db5d","children":[]}},"files":{"/home/usuario/p8-mod/src/ejercicio-1.ts":["3099f1e7-94aa-4d3c-b5ba-461ce112ca02"]},"externalIds":{}}
