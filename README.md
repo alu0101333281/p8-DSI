@@ -1,7 +1,7 @@
-# Practica 7 Clases de modificacion sobre ImperailLenght e ImperialMass
+# Practica 8 Modificaciones
 
 ## Introduccion
-Se realizaran una serie de ejercicios los cuales estan relacionados con Clases e interfaces genéricas. Tambien una modificacion enviada en el laboratorio sobre el mismo tema.
+Se realizaran una serie de ejercicios en la clase de laboratorio.
 
 
 
